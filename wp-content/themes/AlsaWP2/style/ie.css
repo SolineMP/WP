@@ -1,0 +1,36 @@
+/**
+
+AlsaWP2 - 2019 ;
+Auteur : Soline ;
+Theme URI : www.alsacreations.com;
+Version : 1; 
+
+**/
+
+/*formulaire*/
+#recherche {
+padding:10px 5px 0 5px;
+margin:0px 0 0 0;
+}
+
+input[type=text] {
+border:none;
+background: transparent url(../medias/fond_input.png) right top no-repeat scroll;
+width:290px; /*300-padding*/
+height:32px;
+padding:8px 5px 0 5px;
+margin:0px 0 0 0;
+color:#686464;
+font-size:1.4em; /*14px*/
+}
+
+textarea {
+border:none;
+padding:0px 5px 0 5px;
+margin:0px 0 0 0;
+width:290px; /*300-padding*/
+height:157px;
+color:#686464;
+font-size:1.4em; /*14px*/
+background: #ffffff url(../medias/fond_textarea.png) right top no-repeat scroll;
+}
